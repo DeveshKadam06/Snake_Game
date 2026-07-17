@@ -1,0 +1,4 @@
+Python >= 3.13
+
+No external packages required.
+Uses Python's built-in turtle module.
