@@ -16,16 +16,16 @@ A classic Snake Game built using Python's Turtle graphics library.
 ## Screenshots
 
 ### Home
+<img width="747" height="777" alt="Home" src="https://github.com/user-attachments/assets/05d1c869-4b91-4c10-8727-3fcbc61f3950" />
 
-![Home](screenshots/home.png)
 
 ### Gameplay
+<img width="727" height="765" alt="Gameplay" src="https://github.com/user-attachments/assets/de8f135c-07d6-45ff-8201-370851ab0f5a" />
 
-![Gameplay](screenshots/gameplay.png)
 
 ### Game Over
+<img width="742" height="777" alt="Gameover" src="https://github.com/user-attachments/assets/36c103f9-f0bb-4408-b973-872fabd2de3e" />
 
-![Game Over](screenshots/gameover.png)
 
 ---
 
